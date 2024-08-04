@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vadithe Venkat Bhavani Nayak
 - I am a passionate data analyst with a strong interest in uncovering insights from data to drive informed decision-making. 
 - Skills:
-  Data Visualization: Microsoft PowerBI,Tableau | Programming Language: Python | Database: SQL,PL/SQL | Statistics | Microsoft Excel
+  Data Visualization: Microsoft PowerBI,Tableau | Query & Programming Language: Python, SQL, PL/SQL| Database: MySQL,PL/SQL | Statistics | Microsoft Excel
 - Feel free to reach out to me via @ venkat.bhavani2599@gmail.com
   LinkedIn https://www.linkedin.com/in/venkatvadithe
   
